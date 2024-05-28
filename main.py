@@ -132,7 +132,7 @@ payload = {
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "authorization": "Bearer pplx-177eb4ce169ac55d32805ef3f95384-####lol did you really thought that i will share that:) (paste your own api key here.(both open -ai and perpelity api key  can be used here))"
+    "authorization": "Bearer pplx-177eb4ce169ac55d32805ef3f95384-####lol did you really thought that i will share that:) (paste your own api key here.(both open -ai and perpelity api key  can be used here)(slight modification of the abovecode needed for open ai api ))"
 }
 
 response = requests.post(url, json=payload, headers=headers)
