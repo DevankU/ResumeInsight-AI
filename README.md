@@ -1,6 +1,6 @@
 
-# Project Title
-The Resume Summarizer is a Python-based command-line interface tool that processes resumes in various formats (PDF, DOC, and image) and generates a summary using the Perplexity API. The Perplexity API leverages Llama2 for summarization and provides suggestions to recruiters, aiding in effective candidate selection.
+# ResumeInsight AI
+ResumeInsight AI is a Python-based command-line interface tool that processes resumes in various formats (PDF, DOC, and image) and generates a summary using the Perplexity API. The Perplexity API leverages Llama2 for summarization and provides suggestions to recruiters, aiding in effective candidate selection.
 ## Installation
 
 1) clone this repo
@@ -21,3 +21,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## Future updates
+GUI
